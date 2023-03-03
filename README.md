@@ -3,11 +3,11 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="250" alt="Coding GIF"/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/1justingo1/">
+  <a href="https://www.linkedin.com/in/1gojustin1/">
     <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
   </a>
   <a href="https://facebook.com/gojustinruiz">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=gojustin&style=flat-square&color=blue" alt="Profile Views"/>
@@ -35,7 +35,7 @@
   <h3>📫 Contact Me</h3>
   <p>
     <a href="mailto:justin.ruiz.go@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/1justingo1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/1gojustin1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="https://facebook.com/gojustinruiz/"><img src="https://img.shields.io/badge/-Facebook-1DA1F2?style=flat-square&logo=facebook&logoColor=white" /></a>
   </p>
 </div>
@@ -105,11 +105,11 @@
 &nbsp;
 <!-- Social button 3 -->
 <!-- Light Mode -->
-<a href="https://www.linkedin.com/in/1justingo1#gh-light-mode-only">
+<a href="https://www.linkedin.com/in/1gojustin1#gh-light-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
 </a>
 <!-- Dark Mode -->
-<a href="https://www.linkedin.com/in/1justingo1#gh-dark-mode-only">
+<a href="https://www.linkedin.com/in/1gojustin1#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
 </a>
 
