@@ -1,4 +1,4 @@
-<!--<p align="center"><a href="https://github.com/janzengo"><img width="100%" alt="Howdy! I'm Janzen. I do FrontEnd and Graphic Design" src="./assets/banner.png" /></a></p>-->
+<!--<p align="center"><a href="https://github.com/gojustin"><img width="100%" alt="Howdy! I'm Justin. I do FrontEnd and Graphic Design" src="./assets/banner.png" /></a></p>-->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -14,6 +14,7 @@
 </div>
 
 </div>
+
 
 
 Howdy! I'm a self-taught, aspiring FrontEnd Web Developer from the Philippines! I'm fond of playing with open-source projects and experimenting with them for the purpose of learning.
@@ -42,6 +43,7 @@ Howdy! I'm a self-taught, aspiring FrontEnd Web Developer from the Philippines! 
 <a href="https://github.com/gojustin#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gojustin&layout=compact&langs_count=10&role=owner,collaborator&theme=default&bg_color=ffffff#gh-light-mode-only" alt="Justin's Language stats" />
 </a>
+
 <a href="https://github.com/gojustin#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gojustin&show_icons=true&count_private=true&line_height=28&&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default&bg_color=ffffff#gh-light-mode-only" alt="Justin's Github stats" />
 </a>
@@ -56,9 +58,13 @@ Howdy! I'm a self-taught, aspiring FrontEnd Web Developer from the Philippines! 
 <img height=180 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gojustin&show_icons=true&count_private=true&line_height=28&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default&bg_color=fff#gh-dark-mode-only" alt="Justin's Github stats" />
 </a>
 
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gojustin&theme=slateorange&background=000000#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gojustin&theme=slateorange&background=ffffff#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+  
+<br/>
+  
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=zss4gpqd8vnb3bg65n2mscy22&count=1)
+  
 </div>
 <br/>
 
