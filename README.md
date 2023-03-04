@@ -70,7 +70,7 @@ Hi there! I'm Justin, a passionate programmer with a love for all things tech. W
   </a>
 
   <a href="https://github.com/gojustin#gh-light-mode-only" target="_blank">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gojustin&show_icons=true&count_private=true&line_height=28&&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=midnight-purple#gh-light-mode-only" alt="Justin's Github stats" />
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gojustin&show_icons=true&count_private=true&line_height=28&&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=vision-friendly-dark#gh-light-mode-only" alt="Justin's Github stats" />
   </a>
 </div>
 
