@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="250" alt="Coding GIF"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/1gojustin1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
   </a>
@@ -19,7 +19,7 @@
 <div align="center">
   <h2> Justin Go </h2>
   <i> "Girls with dreams become women with vision, code makes it a reality." </i>
-  <p>Hi, my name is Justin and I'm a passionate developer based in [Philippines]. </p>
+  <p>Hi, my name is Justin and I'm a passionate developer based in the Philippines. </p>
   
   <h3>💻 Tech Stack</h3>
   <p>
@@ -42,7 +42,7 @@
 </div>
 
 <!-- INFO START -->
-"Hi there! I'm Justin, a passionate programmer with a love for all things tech. With a focus on Web Development, I'm driven to create innovative solutions and make a positive impact on the world. Join me on this exciting journey of coding, learning, and growth."
+Hi there! I'm Justin, a passionate programmer with a love for all things tech. With a focus on Web Development, I'm driven to create innovative solutions and make a positive impact on the world. Join me on this exciting journey of coding, learning, and growth.
 
 # **About me**
 - 💼 Junior Web Developer at [AGGTEDeck](http://aggtedeck.com/)
@@ -55,6 +55,7 @@
 ### FUN FACT:
   - I started teaching myself using online platforms such as [Codecademy](https://www.codecademy.com/), [Khan Academy](https://www.khanacademy.org/), and [Code Monkey](https://www.codemonkey.com/). These platforms offer free courses with informative lectures from various fields in science and technology.
   - I am considering deprioritizing college because nowadays, it is possible to learn almost anything from the comfort of your own home and for free.
+  - C++ was the first programming language I learned.
   - I can play piano 🎹 and guitar 🎸
   - 👀 I hate light mode themes!
   - I am obsessed with cats 🐈🐈🐈
@@ -65,18 +66,18 @@
 <!-- Light Mode -->
 <div align="center"> 
   <a href="https://github.com/gojustin#gh-light-mode-only" target="_blank">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gojustin&layout=compact&langs_count=10&role=owner,collaborator&theme=radical&bg_color=000#gh-light-mode-only" alt="Justin's Language stats" />
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gojustin&layout=compact&langs_count=10&role=owner,collaborator&theme=algolia&bg_color=000#gh-light-mode-only" alt="Justin's Language stats" />
   </a>
 
   <a href="https://github.com/gojustin#gh-light-mode-only" target="_blank">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gojustin&show_icons=true&count_private=true&line_height=28&&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000#gh-light-mode-only" alt="Justin's Github stats" />
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gojustin&show_icons=true&count_private=true&line_height=28&&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=midnight-purple&bg_color=000#gh-light-mode-only" alt="Justin's Github stats" />
   </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/gojustin#gh-dark-mode-only" target="_blank">
-<img height=180 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gojustin&layout=compact&langs_count=10&role=owner,collaborator&theme=default&bg_color=fff#gh-dark-mode-only" alt="Justin's Language stats" />
+<img height=180 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gojustin&layout=compact&langs_count=10&role=owner,collaborator&theme=transparent&bg_color=fff#gh-dark-mode-only" alt="Justin's Language stats" />
 </a>
 <a href="https://github.com/gojustin#gh-dark-mode-only" target="_blank">
 <img height=180 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gojustin&show_icons=true&count_private=true&line_height=28&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=radical&title_color=4D07BF&text_color=fff&hide_border=true&&bg_color=45,D16BA5,86A8E7,5FFBF1#gh-dark-mode-only" alt="Justin's Github stats"/>
@@ -85,7 +86,7 @@
 <!-- GitHub Stats -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gojustin&theme=slateorange&background=000000#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gojustin&theme=slateorange&background=000#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gojustin&theme=vision-friendly-dark&background=000#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
   
 <br/>
 
