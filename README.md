@@ -66,11 +66,11 @@ Hi there! I'm Justin, a passionate programmer with a love for all things tech. W
 <!-- Light Mode -->
 <div align="center"> 
   <a href="https://github.com/gojustin#gh-light-mode-only" target="_blank">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gojustin&layout=compact&langs_count=10&role=owner,collaborator&theme=midnight-purple&bg_color=434343#gh-light-mode-only" alt="Justin's Language stats" />
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gojustin&layout=compact&langs_count=10&role=owner,collaborator&theme=midnight-purple#gh-light-mode-only" alt="Justin's Language stats" />
   </a>
 
   <a href="https://github.com/gojustin#gh-light-mode-only" target="_blank">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gojustin&show_icons=true&count_private=true&line_height=28&&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=midnight-purple&bg_color=434343#gh-light-mode-only" alt="Justin's Github stats" />
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gojustin&show_icons=true&count_private=true&line_height=28&&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=midnight-purple#gh-light-mode-only" alt="Justin's Github stats" />
   </a>
 </div>
 
