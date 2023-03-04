@@ -1,6 +1,6 @@
 <div align='center'>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=This%20is%20Justin&fontSize=90&animation=fadeIn&fontAlignY=38&desc="Girls%20with%20dreams%20become%20women%20with%20vision,%20code%20makes%20it%20a%20reality."&descAlignY=55&descAlign=50)
   
 </div>
   <p align='center'> This is Justin Go's GitHub Profile, glad you visit! </p>
@@ -25,7 +25,7 @@
 
 
 <div align="center">
-  <h2> Justin Go </h2>
+  <h2> Justin Go (She/Her) </h2>
   <i> "Girls with dreams become women with vision, code makes it a reality." </i>
   <p>Hi, my name is Justin and I'm a passionate developer based in the Philippines. </p>
   
