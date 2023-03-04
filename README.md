@@ -1,4 +1,12 @@
+<div align='center'>
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+  
+</div>
+  <p align='center'> This is Justin Go's GitHub Profile, glad you visit! </p>
+
 <!--<p align="center"><a href="https://github.com/gojustin"><img width="100%" alt="Howdy! I'm Justin. I do FrontEnd and Graphic Design" src="./assets/banner.png" /></a></p>-->
+
 
 <div id="header" align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="250" alt="Coding GIF"/>
@@ -120,4 +128,10 @@ Hi there! I'm Justin, a passionate programmer with a love for all things tech. W
   <a href="https://www.linkedin.com/in/1gojustin1#gh-dark-mode-only" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
   </a>
+</div>
+
+<div align='center'>
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
+  
 </div>
