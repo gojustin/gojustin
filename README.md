@@ -70,28 +70,28 @@ Hi there! I'm Justin, a passionate programmer with a love for all things tech. W
   </a>
 
   <a href="https://github.com/gojustin#gh-light-mode-only" target="_blank">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gojustin&show_icons=true&count_private=true&line_height=28&&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=vision-friendly-dark#gh-light-mode-only" alt="Justin's Github stats" />
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gojustin&show_icons=true&count_private=true&line_height=28&&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=codeSTACKr#gh-light-mode-only" alt="Justin's Github stats" />
   </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center"> 
-<a href="https://github.com/gojustin#gh-dark-mode-only" target="_blank">
-<img height=180 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gojustin&layout=compact&langs_count=10&role=owner,collaborator&theme=transparent&bg_color=fff#gh-dark-mode-only" alt="Justin's Language stats" />
-</a>
-<a href="https://github.com/gojustin#gh-dark-mode-only" target="_blank">
-<img height=180 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gojustin&show_icons=true&count_private=true&line_height=28&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=radical&title_color=4D07BF&text_color=fff&hide_border=true&&bg_color=45,D16BA5,86A8E7,5FFBF1#gh-dark-mode-only" alt="Justin's Github stats"/>
-</a>
+  <a href="https://github.com/gojustin#gh-dark-mode-only" target="_blank">
+  <img height=180 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gojustin&layout=compact&langs_count=10&role=owner,collaborator&theme=transparent&bg_color=fff#gh-dark-mode-only" alt="Justin's Language stats" />
+  </a>
+  <a href="https://github.com/gojustin#gh-dark-mode-only" target="_blank">
+  <img height=180 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gojustin&show_icons=true&count_private=true&line_height=28&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=radical&title_color=4D07BF&text_color=fff&hide_border=true&&bg_color=45,D16BA5,86A8E7,5FFBF1#gh-dark-mode-only" alt="Justin's Github stats"/>
+  </a>
 
-<!-- GitHub Stats -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gojustin&theme=slateorange&background=000000#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+  <!-- GitHub Stats -->
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gojustin&theme=slateorange&background=000000#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gojustin&theme=vision-friendly-dark&background=FFC75F,F9F871#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
-  
-<br/>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gojustin&theme=vision-friendly-dark&background=FFC75F,F9F871#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
-<!-- Spotify Playlist Section -->
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=zss4gpqd8vnb3bg65n2mscy22&count=1)
+  <br/>
+
+  <!-- Spotify Playlist Section -->
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=zss4gpqd8vnb3bg65n2mscy22&count=1)
   
 </div>
 <br/>
