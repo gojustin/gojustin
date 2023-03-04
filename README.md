@@ -9,8 +9,11 @@
 
 
 <div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/57/2e/16/572e161cc13f4409f931a472313ef6d7.gif?" width="280" alt="Follow me!"/>
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="250" alt="Coding GIF"/>
+  <img src="https://i.pinimg.com/originals/57/2e/16/572e161cc13f4409f931a472313ef6d7.gif?" width="280" alt="@ GitHub"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/1gojustin1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
