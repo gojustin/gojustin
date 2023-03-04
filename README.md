@@ -66,7 +66,7 @@ Hi there! I'm Justin, a passionate programmer with a love for all things tech. W
 <!-- Light Mode -->
 <div align="center"> 
   <a href="https://github.com/gojustin#gh-light-mode-only" target="_blank">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gojustin&layout=compact&langs_count=10&role=owner,collaborator&theme=transparent&title_color=FFC75F&bg_color=45,845EC2,FF6F91#gh-light-mode-only" alt="Justin's Language stats" />
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gojustin&layout=compact&langs_count=10&role=owner,collaborator&theme=midnight-purple&title_color=FFC75F&bg_color=45,845EC2,FF6F91#gh-light-mode-only" alt="Justin's Language stats" />
   </a>
 
   <a href="https://github.com/gojustin#gh-light-mode-only" target="_blank">
