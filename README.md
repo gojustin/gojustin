@@ -27,7 +27,7 @@
 <div align="center">
   <h2> Justin Go (She/Her) </h2>
   <!--<i> "Girls with dreams become women with vision, code makes it a reality." </i>-->
-  <p> Hi, my name is Justin, and I am a student and aspiring developer based in the Philippines. </p>
+  <p> Hi, my name is Justin, and I am a student and become an aspiring developer based in the Philippines. </p>
   
   <h3>💻 Tech Stack</h3>
   <p>
