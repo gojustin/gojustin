@@ -26,8 +26,8 @@
 
 <div align="center">
   <h2> Justin Go (She/Her) </h2>
-  <i> "Girls with dreams become women with vision, code makes it a reality." </i>
-  <p>Hi, my name is Justin and I'm a passionate developer based in the Philippines. </p>
+  <!--<i> "Girls with dreams become women with vision, code makes it a reality." </i>-->
+  <p> Hi, my name is Justin, and I am a student and aspiring developer based in the Philippines. </p>
   
   <h3>💻 Tech Stack</h3>
   <p>
@@ -50,9 +50,12 @@
 </div>
 
 <!-- INFO START -->
-Hi there! I'm Justin, a passionate programmer with a love for all things tech. With a focus on Web Development, I'm driven to create innovative solutions and make a positive impact on the world. Join me on this exciting journey of coding, learning, and growth.
+Meet Justin, a passionate programmer with a keen interest in all things tech. With a focus on web development, she strives to create innovative solutions that make a positive impact on the world. Justin welcomes you to join her on an exciting journey of coding, continuous learning, and personal growth.
 
 # **About me**
+- Age: 17 years old
+- Address: Bulacan, Philippines
+- Languages: Tagalog, English
 - 💼 Junior Web Developer at [AGGTEDeck](http://aggtedeck.com/)
 - ❤️ I am fond of writing `Java` codes in [Code Wars](https://www.codewars.com/).
 - 💭 My goal as a front-end developer is to enhance my CSS skills and become ***"The CSS Queen"*** through interactive games such as [CSS Battle](https://cssbattle.dev/).
@@ -64,11 +67,11 @@ Hi there! I'm Justin, a passionate programmer with a love for all things tech. W
   - I started teaching myself using online platforms such as [Codecademy](https://www.codecademy.com/), [Khan Academy](https://www.khanacademy.org/), and [Code Monkey](https://www.codemonkey.com/). These platforms offer free courses with informative lectures from various fields in science and technology.
   - I am considering deprioritizing college because nowadays, it is possible to learn almost anything from the comfort of your own home and for free.
   - C++ was the first programming language I learned.
+  - Currently, I am working on improving my `Django` skills, and I must say, it's quite challenging!!!
   - I can play piano 🎹 and guitar 🎸
   - 👀 I hate light mode themes!
   - I am obsessed with cats 🐈🐈🐈
   - I fell in love with Java 😍
-  - Currently, I am working on improving my `Django` skills, and I must say, it's quite challenging!!!
 <!-- INFO END -->
 
 <!-- Light Mode -->
