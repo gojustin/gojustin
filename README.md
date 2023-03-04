@@ -66,11 +66,11 @@ Hi there! I'm Justin, a passionate programmer with a love for all things tech. W
 <!-- Light Mode -->
 <div align="center"> 
   <a href="https://github.com/gojustin#gh-light-mode-only" target="_blank">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gojustin&layout=compact&langs_count=10&role=owner,collaborator&theme=algolia&bg_color=D16BA5#gh-light-mode-only" alt="Justin's Language stats" />
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gojustin&layout=compact&langs_count=10&role=owner,collaborator&theme=algolia&bg_color=45,845EC2,FF6F91#gh-light-mode-only" alt="Justin's Language stats" />
   </a>
 
   <a href="https://github.com/gojustin#gh-light-mode-only" target="_blank">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gojustin&show_icons=true&count_private=true&line_height=28&&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=midnight-purple&bg_color=86A8E7#gh-light-mode-only" alt="Justin's Github stats" />
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gojustin&show_icons=true&count_private=true&line_height=28&&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=midnight-purple&bg_color=45,D65DB1,FF9671#gh-light-mode-only" alt="Justin's Github stats" />
   </a>
 </div>
 
@@ -86,7 +86,7 @@ Hi there! I'm Justin, a passionate programmer with a love for all things tech. W
 <!-- GitHub Stats -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gojustin&theme=slateorange&background=000000#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gojustin&theme=vision-friendly-dark&background=5FFBF1#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gojustin&theme=vision-friendly-dark&background=FFC75F,F9F871#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
   
 <br/>
 
