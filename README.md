@@ -2,6 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="250" alt="Coding GIF"/>
+</div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/1gojustin1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
@@ -64,11 +65,11 @@
 <!-- Light Mode -->
 <div align="center"> 
   <a href="https://github.com/gojustin#gh-light-mode-only" target="_blank">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gojustin&layout=compact&langs_count=10&role=owner,collaborator&theme=default&bg_color=ffffff#gh-light-mode-only" alt="Justin's Language stats" />
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gojustin&layout=compact&langs_count=10&role=owner,collaborator&theme=slateorange&bg_color=ffffff#gh-light-mode-only" alt="Justin's Language stats" />
   </a>
 
   <a href="https://github.com/gojustin#gh-light-mode-only" target="_blank">
-    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gojustin&show_icons=true&count_private=true&line_height=28&&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default&bg_color=ffffff#gh-light-mode-only" alt="Justin's Github stats" />
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gojustin&show_icons=true&count_private=true&line_height=28&&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=slateorange&bg_color=ffffff#gh-light-mode-only" alt="Justin's Github stats" />
   </a>
 </div>
 
