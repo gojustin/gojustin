@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=gojustin&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-</div>
+
 
 <div align="center">
   <h2> Justin Go </h2>
@@ -48,11 +48,12 @@
 - ❤️ I am fond of writing `Java` codes in [Code Wars](https://www.codewars.com/).
 - 💭 My goal as a front-end developer is to enhance my CSS skills and become ***"The CSS Queen"*** through interactive games such as [CSS Battle](https://cssbattle.dev/).
 - 🔖I am currently a first-year senior high school student at Marian College of Baliuag.
-- 👩‍🎓 I graduated at [Fame Academy of Science and Technology Inc.(FAST)](fast.edu.ph) in school year 2021-2022
-- 💡 Besides my studies in college, I'm also taking Harvard's CS50W 🐤🐤🐤
+- 👩‍🎓 I graduated at [Fame Academy of Science and Technology Inc. (FAST)](fast.edu.ph) in school year 2021-2022
+- 💡 Besides my studies, I'm also taking Harvard's CS50W 🐤🐤🐤
 
 ### FUN FACT:
   - I started teaching myself using online platforms such as [Codecademy](https://www.codecademy.com/), [Khan Academy](https://www.khanacademy.org/), and [Code Monkey](https://www.codemonkey.com/). These platforms offer free courses with informative lectures from various fields in science and technology.
+  - I am considering deprioritizing college because nowadays, it is possible to learn almost anything from the comfort of your own home and for free.
   - I can play piano 🎹 and guitar 🎸
   - 👀 I hate light mode themes!
   - I am obsessed with cats 🐈🐈🐈
