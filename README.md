@@ -3,9 +3,10 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=This%20is%20Justin&fontSize=90&animation=fadeIn&fontAlignY=38&desc="Girls%20with%20dreams%20become%20women%20with%20vision,%20code%20makes%20it%20a%20reality."&descAlignY=55&descAlign=50)
   
 </div>
-  <p align='center'> This is Justin Go's GitHub Profile, glad you visit! </p>
+  <p align='center'> Ako lang to! The one and only Justin Go! </p>
+  
 
-<!--<p align="center"><a href="https://github.com/gojustin"><img width="100%" alt="Howdy! I'm Justin. I do FrontEnd and Graphic Design" src="./assets/banner.png" /></a></p>-->
+<p align="center"><a href="https://github.com/gojustin"><img width="100%" alt="Don't be mistaken, I'm not a man." src="./assets/banner.png" /></a></p>
 
 
 <div id="header" align="center">
@@ -53,17 +54,17 @@
 </div>
 
 <!-- INFO START -->
-Meet Justin, a passionate programmer with a keen interest in all things tech. With a focus on web development, she strives to create innovative solutions that make a positive impact on the world. Justin welcomes you to join her on an exciting journey of coding, continuous learning, and personal growth.
+Meet Justin, a passionate programmer with a keen interest in all things tech. With a focus on web development, she strives to create innovative solutions that make a positive impact on the world. Justin welcomes you to join her on an exciting journey of coding, continuous learning, and personal growth. #SiChatGPTlangSakalam
 
 # **About me**
-- Age: 17 years old
+- Age: 18 years old
 - Address: Bulacan, Philippines
 - Languages: Tagalog, English
-- 💼 Junior Web Developer at [AGGTEDeck](http://aggtedeck.com/)
+- 💼 Junior Web Developer at [AGGTEDeck](http://aggtedeck.com/) and [Aquaponics Go Green](https://aquaponicsgogreen.com/)
 - ❤️ I am fond of writing `Java` codes in [Code Wars](https://www.codewars.com/).
 - 💭 My goal as a front-end developer is to enhance my CSS skills and become ***"The CSS Queen"*** through interactive games such as [CSS Battle](https://cssbattle.dev/).
 - 🔖I am currently a first-year senior high school student at Marian College of Baliuag.
-- 👩‍🎓 I graduated at [Fame Academy of Science and Technology Inc. (FAST)](fast.edu.ph) in school year 2021-2022
+- 👩‍🎓 I graduated from [Fame Academy of Science and Technology Inc. (FAST)](fast.edu.ph) in the school year 2021-2022
 - 💡 Besides my studies, I'm also taking Harvard's CS50W 🐤🐤🐤
 
 ### FUN FACT:
@@ -72,7 +73,7 @@ Meet Justin, a passionate programmer with a keen interest in all things tech. Wi
   - C++ was the first programming language I learned.
   - Currently, I am working on improving my `Django` skills, and I must say, it's quite challenging!!!
   - I can play piano 🎹 and guitar 🎸
-  - 👀 I hate light mode themes!
+  - 👀 I hate light-mode themes!
   - I am obsessed with cats 🐈🐈🐈
   - I fell in love with Java 😍
 <!-- INFO END -->
@@ -127,11 +128,11 @@ Meet Justin, a passionate programmer with a keen interest in all things tech. Wi
   &nbsp;
   <!-- Social button 3 -->
   <!-- Light Mode -->
-  <a href="https://www.linkedin.com/in/1gojustin1#gh-light-mode-only" target="_blank">
+  <a href="https://www.linkedin.com/in/gojustinruiz#gh-light-mode-only" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
   </a>
   <!-- Dark Mode -->
-  <a href="https://www.linkedin.com/in/1gojustin1#gh-dark-mode-only" target="_blank">
+  <a href="https://www.linkedin.com/in/gojustinruiz#gh-dark-mode-only" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
   </a>
 </div>
