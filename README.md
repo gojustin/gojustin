@@ -6,7 +6,7 @@
   <p align='center'> Ako lang to! The one and only Justin Go! </p>
   
 
-<p align="center"><a href="https://github.com/gojustin">Don't be mistaken, I'm not a man."</a></p>
+<p align="center"><a href="https://github.com/gojustin">"Don't be mistaken, I'm not a man."</a></p>
 
 
 <div id="header" align="center">
