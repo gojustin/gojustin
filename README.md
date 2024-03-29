@@ -1,12 +1,12 @@
 <div align='center'>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=This%20is%20Justin&fontSize=90&animation=fadeIn&fontAlignY=38&desc="Girls%20with%20vast%20imaginations%20attain%20in%20web%2creation."&descAlignY=55&descAlign=50)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=This%20is%20Justin&fontSize=90&animation=fadeIn&fontAlignY=38&desc="Girls%20with%20vast%20imaginations%20attain%20in%20web%20creation."&descAlignY=55&descAlign=50)
   
 </div>
   <p align='center'> Ako lang to! The one and only Justin Go! </p>
   
 
-<p align="center"><a href="https://github.com/gojustin"><img width="100%" alt="Don't be mistaken, I'm not a man." src="./assets/banner.png" /></a></p>
+<p align="center"><a href="https://github.com/gojustin">Don't be mistaken, I'm not a man."</a></p>
 
 
 <div id="header" align="center">
