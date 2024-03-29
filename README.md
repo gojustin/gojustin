@@ -1,6 +1,6 @@
 <div align='center'>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=This%20is%20Justin&fontSize=90&animation=fadeIn&fontAlignY=38&desc="Girls%20with%20dreams%20become%20women%20with%20vision,%20code%20makes%20it%20a%20reality."&descAlignY=55&descAlign=50)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=This%20is%20Justin&fontSize=90&animation=fadeIn&fontAlignY=38&desc="Girls%20with%20vast%20imaginations%20attain%20in%20web%2creation."&descAlignY=55&descAlign=50)
   
 </div>
   <p align='center'> Ako lang to! The one and only Justin Go! </p>
